@@ -1,47 +1,5 @@
 # POOkemon Project
 
-On souhaite développer une application pour **un nouveau un jeu Pokémon**.
-C'est un jeu à **deux joueurs** où les dresseurs s'affrontent en plaçant sur leur terrain différents Pokémons.
-
-## Organisation
-
-- Travail en **binôme** au sein d'un même groupe de TP
-- Durée : 5 semaines
-- Nombre de séances :
-   - 20h encadrées, en groupe TP
-   - 8h tutorées, en promo complète
-   - travail non-encadré
-- Sujet dévoilé en deux phases :
-  - Phase 1 sur les deux premières semaines
-  - Phase 2 dévoilée le **Lundi 20 mai**.
-
-## Calendrier
-
-- Lundi **22 avril** : début du projet
-- Dimanche **19 mai** : rendu intermédiaire
-- Lundi 20 mai : début de la phase 2
-- Dimanche **9 Juin** à minuit : rendu final
-- Lundi **10** et mardi **11 juin** : soutenances
-
-De plus, il y aura un rendu hebdomadaire **chaque dimanche à minuit**, hors vacances scolaires.
-
-
-## Planning indicatif
-
-C'est un planning indicatif qui donne simplement une trame de ce qu'il faudrait avoir si on a une progression linéaire. Il n'est pas à respecter impérativement.
-
-- **Semaine 1** : Première version de la conception générale du projet et début de l'implémentation.  
-_Fonctionalités_ :
-  - un pokémon est capable d'en attaquer un autre sans gestion des affinités, ni d'une pioche, ni d'une défausse, etc.
-- **Semaine 2** : Conception générale finalisée et suite de l'implémentation.  
-_Fonctionalités_ :
-  - gestion des affinités
-  - gestion des mains, pioches et défausses et terrain
-- **Semaine 3** : Début d'interface utilisateur avec gestion des entrées clavier  
-_Fonctionalités_ :
-  - gestion des tours de jeux
-
-
 ## Le jeu
 
 Il s'agit d'un jeu avec un joueur humain face à l'ordinateur, qui se joue **au tour par tour**. Le gagnant est celui qui parvient à **éliminer tous les Pokémons de son adversaire**.
